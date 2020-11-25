@@ -1,0 +1,65 @@
+{
+  "Association Info":{
+    "Name": "FA",
+    "Country": "England",
+    "UEFA Rank": 2,
+    "League Info": [
+      {
+        "Name": "Premier League",
+        "Rank": 1,
+        "Founded": "1992",
+        "Last Winner": "Liverpool",
+        "Team Info": [
+          {
+            "Name": "Liverpool FC",
+            "Location": "Liverpool",
+            "Ground": "Anfield",
+            "Manager": "Jurgen Klopp",
+            "Major Honours": 48
+          },
+          {
+            "Name": "Wolverhampton Wanderers FC",
+            "Location": "Wolverhampton",
+            "Ground": "Molineux Stadium",
+            "Manager": "Nuno Espirito Santo",
+            "Major Honours": 13
+          }]
+      },
+      {
+        "Name": "Championship",
+        "Rank": 2,
+        "Founded": "2004",
+        "Last Winner": "Leeds United",
+        "Team Info": [
+          {
+            "Name": "Blackburn Rovers",
+            "Location": "Blackburn",
+            "Ground": "Ewood Park",
+            "Manager": "Tony Mowbray",
+            "Major Honours": 10
+          },
+          {
+            "Name": "AFC Bournemouth",
+            "Location": "Bournemouth",
+            "Ground": "Vitality Stadium",
+            "Manager": "Jason Tindall",
+            "Major Honours": 0
+          },
+          {
+            "Name": "Derby County",
+            "Location": "Derby",
+            "Ground": "Pride Park",
+            "Manager": "Wayne Rooney",
+            "Major Honours": 3
+          },
+          {
+            "Name": "Preston North End",
+            "Location": "Preston",
+            "Ground": "Deepdale",
+            "Manager": "Alex Neil",
+            "Major Honours": 4
+          }
+        ]
+      }]
+  }S
+}

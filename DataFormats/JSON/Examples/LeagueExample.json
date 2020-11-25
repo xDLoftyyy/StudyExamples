@@ -1,0 +1,38 @@
+{
+  "League Info": {
+    "Name": "Championship",
+    "Rank": 2,
+    "Founded": "2004",
+    "Last Winner": "Leeds United",
+    "Team Info": [
+      {
+        "Name": "Blackburn Rovers",
+        "Location": "Blackburn",
+        "Ground": "Ewood Park",
+        "Manager": "Tony Mowbray",
+        "Major Honours": 10
+      },
+      {
+        "Name": "AFC Bournemouth",
+        "Location": "Bournemouth",
+        "Ground": "Vitality Stadium",
+        "Manager": "Jason Tindall",
+        "Major Honours": 0
+      },
+      {
+        "Name": "Derby County",
+        "Location": "Derby",
+        "Ground": "Pride Park",
+        "Manager": "Wayne Rooney",
+        "Major Honours": 3
+      },
+      {
+        "Name": "Preston North End",
+        "Location": "Preston",
+        "Ground": "Deepdale",
+        "Manager": "Alex Neil",
+        "Major Honours": 4
+      }
+    ]
+  }
+}
